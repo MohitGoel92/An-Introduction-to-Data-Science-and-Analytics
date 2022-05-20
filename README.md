@@ -12,3 +12,41 @@ I hope you enjoy this repository as much as I have creating it, and showing it t
 
 ## Defining Data Science and Analytics
 
+In this section, we will cover:
+
+- What is Data Science and Analytics?
+- Why Data Science and Analytics?
+- Business Intelligence Vs Data Science.
+- Life cycle of Data Science.
+
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structural and unstructred data. Data science is a process, and not an event. The process is uncovering the insights and trends buried in the data. Exploring the data, manipulating the data, asking the right questions about the data, and finding the right answers is the responsibility of a Data Scientist.
+
+Data analytics involves answering questions generated for better business decision making. It involves compiling and analysing the data to support decion making.
+
+Sometimes, it in unclear what the difference is between a Data Analyst and Data Scientist. After all, don't they both just analyse data? And if that's your thought process, you are not alone. The below briefly distinguishes between the two:
+
+Data Analyst:
+- Business Administration
+- Exploratory Data Analysis
+
+Data Scientist:
+- Exploratory Data Analysis
+- Building Algorithms
+- Data Product Engineering
+
+Data science and analytics are important for making prudent decisions, identifying opportunities and business growth. Applications of data science and analytics include health, energy, finance, and ecommerce. In the health sector, we can analyse patient data to understand illnesses and prevent future occurence. This is predictive modelling.
+
+The below briefly distinguishes between Business Analytics and Data Science:
+
+Data Science:
+- Data Sources: Structured and unstructured data.
+- Results: Generates insights but not necessarily towards business decisions.
+- Tools: Python, SQL, Hadoop, R, NoSQL, Rapid Miner .. etc.
+- Methodology: Statistics, Machine Learning, Graph Analysis.
+
+Business Analytics:
+- Data Sources: Structured data.
+- Results: Generated insights are important for decision making.
+- Tools: Oracle BI, Power BI, Excel, Tableau, Looker, SQL DB ... etc.
+- Methodology: Statistics and visualisations.
+
