@@ -70,3 +70,11 @@ In this section, we will cover:
 - Big Data Analytics.
 - Communicating Insights.
 
+**Tabular Data:** A table is an arrangement of data in rows and columns, or possibly in a more complex structure. Tabular data is data that is structured into rows, each of which contains information about some occurence. A common file format is *Comma Seperated Values* or *CSV*. Columns go from left to right, but rows go from top to bottom.
+
+**Data Types:** A data type is the particular kind of data item, as defined by either the values it can take, the programming language used, or the operations that can be performed on it. There are two main data types, they are *Categorical* and *Numerical*.
+
+**Categorical Data Type:** A Categorical data type is a data type that is assigned a category. In this data type, we have *Nominal* and *Ordinal* data types. For instance, if we had a criteria that everyone who get above 75% in an exam has passed while the other have failed, this is a Nominal data type. This is because we have two categories, passed or failed — they have no particular order. For Ordinal data types, we have ordered categories. For instance, having a grading critera where A is the highest grade, followed by B, then C ... etc. Another example of ordinal categorical data is clothing sizes, i.e. X-Large, Large, Medium ... etc.
+
+**Numerical Data Type:** A Numerical data type is a data type that takes a numerical value. In this data type, we have *Discrete* and *Continuous* data types. Discrete data usually counts quantities, whereas Continuous data is used to measure. For instance, the amount of people in a room (5 people), age (35 years old), and amount of t-shirts on the shelf (10 shirts). Continuous data on the other hand can take all values, for instance, the length of grass (4.67cm), the time taken to complete a task (4 hours, 34 minutes, 7.24 seconds), and the weight of a person (78.435 KG).
+
