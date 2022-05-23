@@ -82,3 +82,44 @@ In this section, we will cover:
 
 **Data Cleaning:** This critical step involves detecting and fixing corrupt and innacurate record instances. Some of these innacurate record instances include testing missing values, proper formatting, fixing inconsistent data formats, and removing duplicate records.
 
+**Python:** Python is an interpreted, high-level and general-purpose programming language, that was created in the 90's. Toady, it's a very popular programming language for analysis due to the rise and built-in easy to use packages.
+
+Advantages of using python:
+
+- Easy to read index.
+- Efficient to write production-based code.
+- Skills are transferable.
+
+Popular libraries include Pandas, NumPy, Matplotlib, Scikit-Learn, Tensorflow ... etc.
+
+**R:** R is the statistical language of choice throughout academia. It's widely used among statisticians and data miners for developing statistical software and data analysis.
+
+Advantages of using R:
+
+- Majorly designed for statistical computing.
+- Robust ecosystem of computing packages.
+- Used in academics and research.
+
+Popular libraries include ggplot2, Shiny, Tidyverse ... etc.
+
+**SQL:** Structured Query Language is an easy to use language for data analytics. It operates through declarative statements. It is mainly used to communicate with databases, quest data, add new records and maintain the database.
+
+Advantages of using SQL:
+
+- Access to multiple tables.
+- Easy to understand.
+- Ability to query large datasets.
+
+Relational Database Management Systems - MySQL, PostgreSQL, Oracle DB.
+
+Computational Tools include:
+
+- Power BI
+- Tableau
+- Excel
+- Google Sheets
+- Jupyter Notebook
+- Rstudio Desktop
+
+**Statistics and Probability:** Probability is the science of uncertainty. Statistics is the science of exploring a collection of datasets to find different hidden patterns and trends. There are two types of analysis, they are *Descriptive* and *Inferential*.
+
