@@ -123,3 +123,33 @@ Computational Tools include:
 
 **Statistics and Probability:** Probability is the science of uncertainty. Statistics is the science of exploring a collection of datasets to find different hidden patterns and trends. There are two types of analysis, they are *Descriptive* and *Inferential*.
 
+**Descriptive:** This type of analysis is focused on describing a large collection of datasets with charts and tables, but does not attempt to draw conclusions about the population from the which the sample was taken.
+
+**Inferential:** This type of analysis is focused on exploring the data further, which allows to test a hypothesis and draw conclusions about the data.
+
+**Machine Learning:** Machine Learning is a method of data analysis that automates analytical model building. Using algorithms that iteratively learn from data, machine learning allows computers to find hidden insights without being explicitly programmed where to look.
+
+Traditional Programming: 
+ - Input: Data + Program
+ - Output: Data output
+
+Machine Learning:
+  - Input: Data + Output
+  - Output: Program
+
+**Supervised Learning:** Supervised Learning (SL) is the machine learning task of learning a function that maps an input to an output based on example input-output pairs. It infers a function from labelled training data consisting of a set of training examples. In supervised learning, each example is a pair consisting of an input object (typically a vector) and a desired output value (also called the supervisory signal). Types of Supervised Learning include *Regression* and *Classification*.
+
+**Regression:** Examples of regression include forecasting, predictions, process optimisation, and new insights.
+
+**Classifications:** Examples of classification include fraud detection, image classification, customer retention, and diagnostics.
+
+**Unsupervised Learning:** Unsupervised Learning is a type of algorithm that learns patterns from untagged data. The hope is that through mimicry, which is an important mode of learning in people, the machine is forced to build a compact internal representation of its world and then generate imaginative content from it. Types of Supervised Learning include *Clustering* and *Dimensionally Reduction*.
+
+**Clustering:** Examples of clustering include customer segmentation, targetted marketing, and recommended systems.
+
+**Dimensionality Reduction:** Examples of dimensionality reduction include big data visualisation, meaningful compression, structure discovery and feature elicitation.
+
+**Reinforcement Learning:** Reinforcement learning is a machine learning training method based on rewarding desired behaviors and/or punishing undesired ones. In general, a reinforcement learning agent is able to perceive and interpret its environment, take actions and learning through trial and error. Reinforcement Learning is less supervised which depends on the agent in determining the output. The input data in Supervised Learning in labelled data. Whereas, in Unsupervised Learning the data is unlabelled. The data is not predefined in Reinforcement Learning.
+
+**Reinforcement Learning:** Examples of reinforcement learning include robot navigation, skills aquisition, learning tasks, game AI, and real-time decisions.
+
