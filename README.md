@@ -78,3 +78,7 @@ In this section, we will cover:
 
 **Numerical Data Type:** A Numerical data type is a data type that takes a numerical value. In this data type, we have *Discrete* and *Continuous* data types. Discrete data usually counts quantities, whereas Continuous data is used to measure. For instance, the amount of people in a room (5 people), age (35 years old), and amount of t-shirts on the shelf (10 shirts). Continuous data on the other hand can take all values, for instance, the length of grass (4.67cm), the time taken to complete a task (4 hours, 34 minutes, 7.24 seconds), and the weight of a person (78.435 KG).
 
+**Exploration Data Analysis:** In statistics, exploratory data analysis is an approach to analysing data sets to summarise their main characteristics, often with visual methods. It is a critical process of performing initial investigation on the data to discover trends and patterns. The process allows for hypothesis testing, checking assumptions with the use of statistical, and graphical representation.
+
+**Data Cleaning:** This critical step involves detecting and fixing corrupt and innacurate record instances. Some of these innacurate record instances include testing missing values, proper formatting, fixing inconsistent data formats, and removing duplicate records.
+
