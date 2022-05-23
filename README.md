@@ -164,3 +164,41 @@ Typical methods include:
 
 ## Applications
 
+In this section, we will cover:
+
+- Data Science and Analytics use cases.
+- Industrial Application of Data Science and Analytics.
+- Career in Data Science and Analytics.
+
+The most common use cases for data science and analytics include:
+
+- Customer analytics: Customer behaviour is analysed for business decisions. For example, predictive analytics and clustering.
+- Market research: Effective market research for understanding human behaviours.
+- Fraud detection: To detect fraudulent activity. For example, credit car fraud.
+- Target marketing: Predictive analytics to make marketing campaigns more target specific.
+- Image recognition: For image recognition, for instance, face recognition.
+- Speech recognition: To recognitise speech, for instance, security and detection.
+
+Data science and analytics have seen great applications across many sectors. Below we will discuss how solutions are applied to different fields:
+
+Healthcare: The human body can generate about 2 terabytes of data per day, which includes data on heart rate, brain activities, stress levels, sugar levels ... etc. Data science and analytics assist to keep track of patient records and illnesses can be detected at an earlier stage. This increases the chances of survival. Examples include the analysis of medical images, drug research, and predictive analytics.
+
+Energy: The energy industry is seeing a wide adoption of applications in data science and analytics as the industry generates a large amount of data. solutions are employed to reduce costs, optimise investments and reduce risk. Examples include the outage detection and prediction, energy management, and preventive equipment maintenance.
+
+Ecommerce: Companies in ecommerce are incorporating the applications of data science and analytics in doing business. They can predict the purchases, profits, losses and even nudge customers into buying additional products on the basis of their user behaviour. Examples include market analysis, recommendation engine, and inventory management.
+
+As a data scientist, we will be tasked with estimating the unknown by asking questions, writing algorithms, and building statistical models. The skills and tools that are used include:
+
+- Programming knoweldge - Python, Java, Object-orientated programming, R, SQL ... etc.
+- Statistics, probabilities, Multivariable Calculus and Linear Algebra, Machine learning ... etc.
+- Data Wrangling, Data Intuition, Data Visualisation, communications ... etc.
+- Software Engineering.
+
+The desired backgound for a data scientist is to have a STEM degree (science, technology, engineering or mathematics). Although some jobs state a masters or PhD, you will find a role to enter the field, and once entered you can work your way into the sector of your choice.
+
+As a data analyst, we will utilise data to draw meaningful insights and solve problems. They are usually tasked with database designs, using statistical tools to interpret datasets, communicating insight reports and predictions based on analytical findings. The skills and tools that are used include:
+
+- Programming knowledge - R, SQL, SAS, Python, ... etc.
+- Statistics, Probability, Numerical, ... etc.
+- Data Wrangling, Data Intuition, Data Visualisation, Presentation and Communication, ... etc.
+
