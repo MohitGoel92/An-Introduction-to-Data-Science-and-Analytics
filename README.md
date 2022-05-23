@@ -153,3 +153,12 @@ Machine Learning:
 
 **Reinforcement Learning:** Examples of reinforcement learning include robot navigation, skills aquisition, learning tasks, game AI, and real-time decisions.
 
+**Communicating Insights:** Story telling is an important part of the analytics framework, as it cna drive audiences engagement and translate insights to actions. Data professionals often need to employ effective methods to interpret and communicate findings to decision makers and stakeholders.
+
+Typical methods include:
+
+- Appropriate contextualisation of data.
+- Detailed and compelling narrative.
+- Use data visualisation techniques.
+- Conclusions/summaries: Objectives, methodology, strategy, results, and actions.
+
