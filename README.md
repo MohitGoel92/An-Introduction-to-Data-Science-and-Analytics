@@ -162,3 +162,5 @@ Typical methods include:
 - Use data visualisation techniques.
 - Conclusions/summaries: Objectives, methodology, strategy, results, and actions.
 
+## Applications
+
