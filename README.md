@@ -50,3 +50,23 @@ Business Analytics:
 - Tools: Oracle BI, Power BI, Excel, Tableau, Looker, SQL DB ... etc.
 - Methodology: Statistics and visualisations.
 
+Below, we discuss the life cycle of data science and analytics. In a nutshell, this life cycle takes the following process:
+
+- Data Discovery: This is first stage, in this stage we understand the business requirements, specifications and priorities.
+- Data Preperation: Data collection, exploration, and processing. In this step, the data is ready for use.
+- Model Planning: Determining the methods and techniques to achieving the tasks.
+- Model Building: Here is where we build our model. Models include regression, classification, clustering ... etc.
+- Results Communication: In this step, we communicate our results to key decision makers, stakeholders and those involved.
+- Measuring Effectiveness: In this last step, we evaluate the effectiveness of the process.
+
+## Data Preparation and Cleansing
+
+In this section, we will cover:
+
+- Fundamental Concepts of Data.
+- Computational Tools.
+- Statistics & probability.
+- Machine Learning.
+- Big Data Analytics.
+- Communicating Insights.
+
